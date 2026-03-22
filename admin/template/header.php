@@ -11,6 +11,13 @@
 <body>
     <div class="dashboard  d-flex justify-content-between">
         <div class="sidebar bg-dark vh-100">
-            <h1 class="bg-primary p=4"><a href="" class="text-light text-decoration-none">Dashboard</a></h1>
+            <h1 class="bg-primary p=4"><a href="./index.php" class="text-light text-decoration-none">Dashboard</a></h1>
+
+            <div class="manuals p-4 mt-5">
+                <div class="menu">
+                    <a href="index.php" class="text-light text-decoration-none"><strong>Add New Post</strong></a>
+                </div>
+
+            </div>
 
         </div>
