@@ -13,7 +13,7 @@ include './template/header.php';
         <div class="form-feild mb-4">
             <textarea name="content" id="" class="form-control" cols="30" rows="10" placeholder="Enter Post:"></textarea>
         </div>
-        <input type="hidden" name="date" value="<?php echo date("Y-M-D"); ?>">
+        <input type="hidden" name="date" value="<?php echo date("Y-m-d"); ?>">
         <div class="form-field">
             <input type="submit" class="btn btn-primary" value="Submit" name="create">
         </div>
